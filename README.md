@@ -10,4 +10,6 @@ I am a Full-Stack Developer 👨‍💻<br>with experience in C#, ASP.NET Core M
 ---
 [![](https://visitcount.itsvg.in/api?id=Bardia-AA&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/Bardia-AA/Bardia-AA/output/snake.svg" alt="Snake animation" />
+
 <!-- Thanks to GPRM ( https://gprm.itsvg.in ) -->
