@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Full-Stack Developer 👨‍💻<br>with experience in C#, ASP.NET Core MVC, MSSQL, and Front-End web development, including proficiency in HTML, CSS, and JavaScript. <br>I have experience designing, modifying, and troubleshooting websites and applications. <br>Have a passion for building high-quality, user-friendly websites and applications that solve real-world problems. <br>Whether working independently or as part of a team, I'm always eager to take on new challenges.<br>In my free time, I enjoy working on personal coding projects to expand my skillset and knowledge.
+Experienced Full-Stack .NET Developer with nearly two years of hands-on experience in .NET technologies, specializing in the
+development of scalable, high-impact web applications.<br> Proven track record in leading digital transformations by developing and
+implementing core software solutions, resulting in significantly improved operational efficiency and scalability.<br> Proficient in C#
+ASP.NET Core, JavaScript, and SQL Server, with a strong focus on creating user-centric and maintainable code.<br> Whether working
+independently or as part of a team, I’m always eager to take on new challenges.
 
 
 ## 🌐 Socials:
