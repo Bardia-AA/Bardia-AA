@@ -12,16 +12,13 @@
 
 ### `⚙️ TECH STACK`
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt=".NET / C#" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="52" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="52" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="52" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="52" />
+</p>
 
 </div>
 
