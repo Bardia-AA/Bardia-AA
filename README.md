@@ -13,15 +13,15 @@
 ### `⚙️ TECH STACK`
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="52" alt="SQL Server">
   &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" alt="Docker">
   &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="52" alt="C#">
   &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" alt="React">
   &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" alt="Python">
 </p>
 
 </div>
